@@ -1,26 +1,32 @@
 # QuantumResistantCryptography
 
-Notes and learning material from the **Build Secure Futures: Bootcamp on Quantum-Resistant Cryptography**.
+A collection of notes and learning material from the **Build Secure Futures: Bootcamp on Quantum-Resistant Cryptography**.
 
-## 📅 Bootcamp Schedule
+## 🎯 Purpose
 
-**21–25 September 2026**
+This repository contains structured notes and resources from the bootcamp, covering cybersecurity, cryptography, quantum computing, and quantum-resistant cryptography.
 
-| Date | 10:00 AM – 11:30 AM | 11:45 AM – 1:15 PM | 2:15 PM – 3:45 PM |
-|---|---|---|---|
-| **21 Sep** | Inauguration | **Introduction to Cybersecurity**<br>Padma Shri Bimal Kumar Roy | **Understanding Cryptography**<br>Ms. Poojarini Mitra |
-| **22 Sep** | **Public-Key & Secret-Key Cryptography**<br>Dr. Harsh Bhandari | **Digital Signatures and Hashing**<br>Dr. Arpita Dutta | **Beyond Post Quantum Cryptography: Privacy Enhancing Technologies & Autonomous AI Defence for a Quantum-Safe Digital World**<br>Dr. Arindam Sarkar |
-| **23 Sep** | **What is Quantum Computing?**<br>Sudip Ghosh | **How Quantum Computers Can Break Today's Cryptography**<br>Prof. (Dr.) Dipankar Bhattacharyay | **Introduction to Quantum-Resistant Cryptography**<br>Mr. Abhishek Sen |
-| **24 Sep** | **ML-DSA (Dilithium): Quantum-Safe Digital Signatures**<br>Prof. (Dr.) Sankhayan Choudhury | **Understanding Modern Post-Quantum Algorithms**<br>Dr. Debashis Giri | **ML-KEM (Kyber): A Simple Introduction**<br>Dr. Payel Sadhukhan |
-| **25 Sep** | **Building a Simple Quantum-Safe Security System**<br>Dr. Nayana Das | **Future of Cybersecurity: Quantum-Safe Digital World**<br>Mr. Rajtilak Majumder | **Valedictory** |
+## 📚 Lectures
+
+- **Lecture 01:** Introduction to Cybersecurity — Padma Shri Bimal Kumar Roy
+- **Lecture 02:** Understanding Cryptography — Ms. Poojarini Mitra
+- **Lecture 03:** Public-Key & Secret-Key Cryptography — Dr. Harsh Bhandari
+- **Lecture 04:** Digital Signatures and Hashing — Dr. Arpita Dutta
+- **Lecture 05:** Beyond Post Quantum Cryptography: Privacy Enhancing Technologies & Autonomous AI Defence for a Quantum-Safe Digital World — Dr. Arindam Sarkar
+- **Lecture 06:** What is Quantum Computing? — Sudip Ghosh
+- **Lecture 07:** How Quantum Computers Can Break Today's Cryptography — Prof. (Dr.) Dipankar Bhattacharyay
+- **Lecture 08:** Introduction to Quantum-Resistant Cryptography — Mr. Abhishek Sen
+- **Lecture 09:** ML-DSA (Dilithium): Quantum-Safe Digital Signatures — Prof. (Dr.) Sankhayan Choudhury
+- **Lecture 10:** Understanding Modern Post-Quantum Algorithms — Dr. Debashis Giri
+- **Lecture 11:** ML-KEM (Kyber): A Simple Introduction — Dr. Payel Sadhukhan
+- **Lecture 12:** Building a Simple Quantum-Safe Security System — Dr. Nayana Das
+- **Lecture 13:** Future of Cybersecurity: Quantum-Safe Digital World — Mr. Rajtilak Majumder
+
+## 📂 Structure
+
+- `01_Introduction_to_Cybersecurity/` - Notes from Lecture 01
+- More lecture notes will be added as the bootcamp progresses.
 
 ## 🏛️ Organized By
 
-**Techno Main Salt Lake**  
-in collaboration with  
-**Indian Statistical Institute, Kolkata**
-
-## 📚 Notes
-
-- [Day 1 - Introduction to Cybersecurity](Day_1_Introduction_to_Cybersecurity.md)
-- More notes will be added as the bootcamp progresses.
+**Techno Main Salt Lake** in collaboration with **Indian Statistical Institute, Kolkata**
