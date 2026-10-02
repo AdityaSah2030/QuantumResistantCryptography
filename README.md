@@ -11,7 +11,7 @@ For a clearer learning path, go through the lectures **in order** and use the av
 ## 📚 Lectures
 
 - **Lecture 01:** Introduction to Cybersecurity — Padma Shri Bimal Kumar Roy
-- **Lecture 02:** Understanding Cryptography — Ms. Poojarini Mitra
+- **Lecture 02:** [Understanding Cryptography](https://docs.google.com/presentation/d/1y21RBqLEpG0a_rAR3oZDPI5v7mcsroMx/edit?usp=sharing&ouid=100239776110928979803&rtpof=true&sd=true) — Ms. Poojarini Mitra
 - **Lecture 03:** Public-Key & Secret-Key Cryptography — Dr. Harsh Bhandari
 - **Lecture 04:** [Digital Signatures and Hashing](https://drive.google.com/file/d/1yayjd0f28XVimwFK7ykm_s7Y-D6g5mOr/view?usp=sharing) — Dr. Arpita Dutta
 - **Lecture 05:** Beyond Post Quantum Cryptography: Privacy Enhancing Technologies & Autonomous AI Defence for a Quantum-Safe Digital World — Dr. Arindam Sarkar
